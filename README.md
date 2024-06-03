@@ -1,2 +1,6 @@
-# old.moshir.dev
- My Original Site built with a html5 Tempalte. Cringe in all it's glory!
+# Moshir.dev
+My Personal Site, made easy.
+<p align="center">
+  <img width="500" src="/images/Carrot.png">
+Get Carrotized.
+</p>
